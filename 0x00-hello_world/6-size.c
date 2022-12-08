@@ -1,12 +1,9 @@
 #include <stdio.h>
 
-/**                                                                                                               
- * Write a C program that prints the size of various types on the computer it is compiled and ru
- * You should produce the exact same output as in the example
- * Warnings are allowed                                                                      
- * Your program should return 0                 
+/**
+ * print the size of various data types
+ * program should return 0
  */
-
 int main (void)
 
 {
