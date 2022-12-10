@@ -17,6 +17,6 @@ int main(void)
 		}
 		ch++;
 	}
-	purchar('\n');
+	putchar('\n');
 	return (0);
 }
