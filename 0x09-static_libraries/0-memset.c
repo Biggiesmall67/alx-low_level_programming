@@ -24,7 +24,6 @@ char *_memset(char *s, char b, unsigned int n)
 	 * non-negative (zero or positive)
 	*/
 	unsigned int i;
-iiiii
 	for (i = 0; i < n; i++)
 		s[i] = b;
 
